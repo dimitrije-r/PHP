@@ -1,0 +1,2 @@
+Import these files using XAMPP or whichever software you are using to run the database.<br><br>
+sms_user contains admin info such as password and email. MD5 is used to create/read/check the password.<br><br>
