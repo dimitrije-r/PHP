@@ -21,4 +21,17 @@
      <li>HTML</li>
    </ol>
  </div>
+ <div><h3>2-ecommerce-site:</h3>
+ Built with:
+   <ol>
+     <li>PHP</li>
+     <li>SQL</li>
+     <li>jQuery</li>
+     <li>JavaScript</li>
+     <li>Fontawesome</li>
+     <li>Bootstrap</li>
+     <li>CSS</li>
+     <li>HTML</li>
+   </ol>
+ </div>
 <hr>
